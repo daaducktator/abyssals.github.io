@@ -1,8 +1,5 @@
 <img src="Images/duck%20high%20res.png" width="100" />
 
-
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
-
 # Daa Ducktator 
 ## Abyssals | Overconfident | Overreliant on Piloting | Bad Internet | Random Power Outages
 ### Povertila
