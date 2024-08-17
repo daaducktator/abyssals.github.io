@@ -1,3 +1,13 @@
+<nav>
+  <ul>
+    {% for item in site.navigation %}
+      <li>
+        <a href="{{ second%20page/test.md }}">{{ test }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
+
 [test](second%20page/test.md)
 
 <img src="Images/duck%20high%20res.png" width="100" />
