@@ -1,4 +1,6 @@
-# Povertila
+# Daa Ducktator 
+## Abyssals | Overconfident | Overreliant on Piloting | Bad Internet | Random Power Outages
+### Povertila
 Povertila is one of the most friendly, battle tested and used active fit in abyss. Besides being alpha friendly, it also scales very well from alpha to omega, and from tier 3 abyssals to t6 all the way(althought you might wanna try something different at that point.
 ```
  [Gila, Povertila]
