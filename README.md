@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-
-<html>
-  
-<head>
-  
-  <title>HTML Tutorial</title
-                        
-</head>
-
-<body>
-
 <img src="Images/duck%20high%20res.png" width="100" />
 
 
@@ -161,7 +149,3 @@ Inferno Fury Light Missile x3000
 Nanite Repair Paste x200
 ```
 There can be many side effects to standard blue pill, it is therefore requested to roll it prior to entering abyssal deathspace. If there is any side effect that affects your Gila (shield/capacitor capacity penalty etc) jump in and out of your clone and re pop the drug. 
-
-</body>
-
-</html>
