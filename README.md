@@ -1,3 +1,11 @@
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></main>
+<!-- /wp:group -->
+
 <img src="Images/duck%20high%20res.png" width="100" />
 
 # Daa Ducktator 
